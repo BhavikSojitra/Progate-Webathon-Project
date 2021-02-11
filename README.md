@@ -1,3 +1,4 @@
 # ProgateWebathonProject
 
-#### Html/css
+#### Technologies Used
+HTML,CSS
